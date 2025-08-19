@@ -1,0 +1,15 @@
+{
+  "name": "eco-advisor-backend",
+  "version": "1.0.0",
+  "description": "Backend for Eco Advisor chatbot using OpenRouter",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "node-fetch": "^2.7.0"
+  }
+}
